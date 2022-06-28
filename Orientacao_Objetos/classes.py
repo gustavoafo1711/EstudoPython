@@ -17,6 +17,9 @@ Classes podem conter:
 
 Em Python para definir uma classe, utilizamos a palavrea reservada class.
 
+Obs: quando nomeamos  nossas classes em Python, utilizamos por convenção o nome com inicial
+em maiúsdula, se for composto, utilizamos ambas as iniciais maiúculas e juntas.
+
 """
 
 
@@ -24,6 +27,16 @@ class Lampada:
     pass
 
 
-lamp = Lampada()
-print(type(lamp))
+class ContaCorrente:
+    pass
+
+
+class Produto:
+    pass
+
+
+class Usuario:
+    pass
+
+
 
